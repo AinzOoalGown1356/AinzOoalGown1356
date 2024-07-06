@@ -13,7 +13,7 @@ I’m always open to feedback and advice on my work. Feel free to explore my pro
 
 🌱 Currently learning: Python, JavaScript, Swift, Java, HTML, CSS
 📧 Contact: KhanSN2023@gmail.com
-🌎 Website portfolio: ShayanKhanDev.com
+
 
 
 
