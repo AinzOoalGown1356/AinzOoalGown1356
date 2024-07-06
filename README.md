@@ -11,8 +11,8 @@ I love coding and am constantly working on new projects to improve my skills. So
   
 I’m always open to feedback and advice on my work. Feel free to explore my projects and reach out!
 
-🌱 Currently learning: Python, JavaScript, Swift, Java, HTML, CSS
-📧 Contact: KhanSN2023@gmail.com
+- 🌱 Currently learning: Python, JavaScript, Swift, Java, HTML, CSS
+- 📧 Contact: KhanSN2023@gmail.com
 
 
 
