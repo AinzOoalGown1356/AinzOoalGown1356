@@ -2,10 +2,18 @@
 #### I am college sophmore who is interested in both Compuer Science and Cyber Security
 ![I am college sophmore who is interested in both Compuer Science and Cyber Security](https://media.tenor.com/ViTJnMMosLQAAAAC/anime-typing.gif)
 
-I plan on uploading any projects I do to my GITHUB to share and showcase my work. I am always open to any feedback or advise about Computer Science and Cyber Security.
+I love coding and am constantly working on new projects to improve my skills. Some of my recent projects include:
 
-- 🔭 I’m currently working on multiple coding projects  
-- 🌱 I’m currently learning Python, Javascript, Swift, Java,HTML and CSS 
-- 🤔 I’m looking for help with everything CS related 
+- IronPulse Gym iOS App for exercise logging
+- Discord Music Bot with advanced features
+- Dynamic To-Do List Web App
+  
+I’m always open to feedback and advice on my work. Feel free to explore my projects and reach out!
+
+🌱 Currently learning: Python, JavaScript, Swift, Java, HTML, CSS
+📧 Contact: KhanSN2023@gmail.com
+
+
+
 
 
