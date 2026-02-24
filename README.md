@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Shayan Khan
-#### I am college sophmore who is interested in both Compuer Science and Cyber Security
+#### I am college junior who is interested in both Compuer Science and Cyber Security
 ![I am college sophmore who is interested in both Compuer Science and Cyber Security](https://media.tenor.com/ViTJnMMosLQAAAAC/anime-typing.gif)
 
 I love coding and am constantly working on new projects to improve my skills. Some of my recent projects include:
